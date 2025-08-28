@@ -31,7 +31,7 @@ emotion_app/
 
 Clone this repository:
 
-git clone https://github.com/yourusername/emotion-detection-bilstm.git
+git clone https://github.com/sagurjar027
 cd emotion-detection-bilstm
 
 
